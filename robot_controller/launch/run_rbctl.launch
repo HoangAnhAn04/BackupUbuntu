@@ -1,6 +1,0 @@
-<launch>
-
-    <node name="rb_ctl" pkg="robot_controller" type="rb_ctl" output="screen">
-    </node>
-
-</launch>
