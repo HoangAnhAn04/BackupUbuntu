@@ -1,0 +1,9 @@
+<launch>
+    <param name="a" type="double" value="1.0" />
+    <param name="b" type="double" value="3.0" />
+
+    <node name="client" pkg="robot_controller" type="client" output="screen">
+    </node>
+</launch>   
+
+    

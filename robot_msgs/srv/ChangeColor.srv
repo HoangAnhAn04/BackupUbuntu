@@ -1,0 +1,6 @@
+# Request
+std_msgs/ColorRGBA color
+---
+# Resport
+bool success
+string message
